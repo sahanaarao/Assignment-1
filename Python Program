@@ -1,0 +1,14 @@
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+
+# Floor division
+print(a // b) 
+
+# Exponentiation 
+print(a ** b)
+
+# Equality check
+if a == b:
+  print(True)
+else:
+  print(False)
